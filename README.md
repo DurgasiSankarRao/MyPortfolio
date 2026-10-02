@@ -40,7 +40,7 @@ This portfolio highlights my web development journey, hands-on projects, and pro
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio Live:** https://durgasishankarrao.github.io/MyPortfolio/
+🔗 **Portfolio Live:** https://durgasisankarrao.github.io/MyPortfolio/
 
 ---
 
@@ -58,8 +58,8 @@ Each project includes a live preview and demonstrates practical use of frontend 
 
 Feel free to reach out for collaboration or opportunities:
 
-- **Email:** shankarrao4038@gmail.com  
-- **GitHub:** https://github.com/DurgasiShankarRao  
+- **Email:** durgasisankarrao21@gmail.com  
+- **GitHub:** https://github.com/DurgasiSankarRao  
 - **LinkedIn:** https://www.linkedin.com/in/durgasi-sankar-rao-03a270300/  
 
 ---
